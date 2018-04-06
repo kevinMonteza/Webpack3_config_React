@@ -10,7 +10,7 @@
 /build
 
 # IDE-editor
-/idea
+/.idea
 
 # misc
 .DS_Store
