@@ -1,0 +1,28 @@
+1. crear proyecto npm init --yes
+
+2. agregar dependencias npm install babel-polyfill<optional>
+
+3. crear archivos index.js app.js index.html(agregar script bundle.js)
+
+4. agregar devDependencies npm i -D babel-cli babel-core babel-loader babel-preset-react babel-preset-es2015  babel-preset-react-hmre babel-preset-stage-0 babel-register css-loader file-loader open style-loader url-loader webpack webpack-dev-server react react-dom
+
+5. crear archivo .babelrc
+
+6. crear archivo webpack.config.dev.js
+
+!7. crear archivo index.js en server y configurar
+
+8. npm run build
+
+9.instalar html-webpack-plugin  npm i html-webpack-plugin --save
+
+10. correr npm start
+
+11.https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a
+
+12. https://www.valentinog.com/blog/webpack-4-tutorial/
+
+
+
+
+
